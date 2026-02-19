@@ -1,0 +1,10 @@
+ ─DirectoryExample1
+	└(D) DirectoryExample1_1
+		└(F) FileA
+		└(F) FileB
+	└(D) DirectoryExample1_2
+		└(D) DirectoryExample1_2_1
+			└(F) FileAA
+		└(F) FileA
+	└(F) File1.txt
+	└(F) File2.txt
