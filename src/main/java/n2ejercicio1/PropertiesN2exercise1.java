@@ -5,7 +5,7 @@ import DirectoryControl.Directory;
 import java.io.*;
 import java.util.Properties;
 
-public class PropertiesN1exercise3 {
+public class PropertiesN2exercise1 {
     public static void main(String[] args) {
 
         Properties properties = new Properties();
