@@ -6,7 +6,7 @@ public class Directory {
 
     public static File validate(String directoryPath) {
         if (directoryPath == null || directoryPath.isEmpty()) {
-            throw new IllegalArgumentException("Directory path is null or empty");
+            throw new IllegalArgumentException("Directory path is null or empty: " + directoryPath);
         }
 
         File directory = new File(directoryPath);

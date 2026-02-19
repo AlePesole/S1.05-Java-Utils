@@ -4,7 +4,7 @@ import n1ejercicio3.ListDirectoryWriteFile;
 import n1ejercicio4.ListDirectoryReadFile;
 import n1ejercicio5.SerializeDeserializePerson;
 
-public class Main {
+public class MainTestN1 {
     public static void main(String[] args) {
         // Test class
         String[] arguments = new String[] {"src/main/resources/DirectoryExample1"};
